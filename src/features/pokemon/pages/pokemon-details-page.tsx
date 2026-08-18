@@ -78,11 +78,11 @@ export default function PokemonDetailsPage() {
       <main className="container mx-auto w-full max-w-2xl px-4 py-6 sm:px-6 sm:py-8">
         <div className="flex min-h-[300px] flex-col items-center justify-center px-4 text-center">
           <h1 className="text-lg font-semibold sm:text-xl">
-            Failed to load Pokémon
+            Failed to load Pokemon
           </h1>
 
           <p className="mt-2 max-w-md text-sm text-muted-foreground">
-            We couldn't load this Pokémon.
+            We couldn't load this Pokemon.
           </p>
 
           <div className="mt-4 flex w-full flex-col gap-2 sm:w-auto sm:flex-row">

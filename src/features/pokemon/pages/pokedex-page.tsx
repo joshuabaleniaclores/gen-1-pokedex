@@ -156,12 +156,12 @@ export default function PokedexPage() {
       <main className="container mx-auto w-full px-4 py-6 sm:px-6 sm:py-8">
         <div className="flex min-h-[300px] flex-col items-center justify-center px-4 text-center">
           <h2 className="text-lg font-semibold sm:text-xl">
-            Failed to load Pokémon
+            Failed to load Pokemon
           </h2>
 
           <p className="mt-2 max-w-md text-sm text-muted-foreground">
             Something went wrong while
-            loading the Pokédex.
+            loading the Pokedex.
           </p>
 
           <Button
